@@ -1,5 +1,7 @@
 # Privacy Policy – SOS Risarcimenti Malasanità
 
+![SOS Malasanità]([https://esempio.com/immagine.png](https://raw.githubusercontent.com/risarcimenti/privacy/f166445c26d3465f1b8c417795fe086267c3e984/header.jpg))
+
 ### 1. Introduzione
 La presente Informativa sulla privacy descrive come **SOS Risarcimenti Malasanità** (di seguito "noi", "nostro" o la "Società") raccoglie, utilizza ed elabora i dati personali dell'utente quando visita il nostro sito web, utilizza i nostri servizi o interagisce con le nostre inserzioni pubblicitarie sulle piattaforme Meta (Facebook e Instagram).
 
