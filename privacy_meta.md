@@ -80,7 +80,7 @@ In base al GDPR, hai il diritto di:
 * **Opporsi** al trattamento per scopi di marketing.
 * **Revocare il consenso** in qualsiasi momento (senza pregiudicare la liceità del trattamento basata sul consenso prima della revoca).
 
-Per esercitare tali diritti, scrivi a: `[INSERIRE EMAIL DI CONTATTO]`.
+Per esercitare tali diritti, scrivi a: `gestionalerisarcimenti@gmail.com`.
 
 ---
 
